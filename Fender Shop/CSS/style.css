@@ -1,0 +1,22 @@
+a {
+    text-decoration-line:none;
+}
+p,li {
+    color: black;
+    font-size: 25px; 
+}
+.heading-title {
+    text-align: center;
+    color: red;
+    font-size:50px
+}
+
+.navbar-options {
+    text-align: center;
+    word-spacing: 5px;
+    font-size: 25px;   
+}
+
+
+  
+
