@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+p {
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+.container-photo {
+    text-align: center;
+    margin: 50px auto 0;
+}
+
+.container-searching {
+    text-align: center;
+    width: 90%;
+    height: 65px;
+    background-color: #eeeeee;
+    margin: 10px auto 0;
+    
+}
+
+.container-options {
+    width: 90%;
+    height: 65px;
+    margin: 3px auto 0;
+    text-align: center;
+}
+
+.input {
+
+}
+
+.googlesearch {
+    
+}
+
+.feelinglucky {
+
+}
+
+.special-searches {
+    padding-top: 10px;
+    width: 33%;
+    height: 76px;
+    background-color: #7EE5da;
+    float: left;
+    margin-right: 1px;
+}
+
+.links {
+    padding-top: 10px;   
+    height: 76px;
+    width: 27%; 
+    background-color: #70ccc2;
+    float: left;
+    margin-right: 1px;
+}
+
+.subscribe {
+    padding-top: 2px;
+    padding-bottom: 8px;
+    width: 39.8%;
+    height: 76px;
+    background-color: #62b3aa;
+    float: left;
+}
+
+
+
